@@ -82,4 +82,13 @@ Your report should contain:
   |-------------------|-----------------------|----------|-----|
   
 
-- **Written Summary** of observations and explanations of differences.  
+- **Written Summary** of observations and explanations of differences.
+
+ ## TABULATION
+ <img width="1600" height="1185" alt="image" src="https://github.com/user-attachments/assets/801dc12a-b2f7-4962-bb3b-6aaae0057f77" />
+ <img width="1600" height="688" alt="image" src="https://github.com/user-attachments/assets/ba065028-0ef9-4601-b656-7b269a03cae2" />
+
+## RESULT
+Calculated attenuation-limited fiber length ≈ 121 km based on a 23 dB allowable fiber loss.
+
+At 125% length (≈ 151 km), the system exceeds the power budget, leading to degraded performance (lower Q factor and higher BER).
