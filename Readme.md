@@ -85,8 +85,16 @@ Your report should contain:
 - **Written Summary** of observations and explanations of differences.
 
  ## TABULATION
+ <img width="619" height="325" alt="image" src="https://github.com/user-attachments/assets/c94b6675-b2df-4aac-9a81-60187a05f0b3" />
+
  <img width="1600" height="1185" alt="image" src="https://github.com/user-attachments/assets/801dc12a-b2f7-4962-bb3b-6aaae0057f77" />
+ <img width="613" height="323" alt="image" src="https://github.com/user-attachments/assets/2e95b801-e5f7-46dd-8a0b-d2a2e5e63016" />
+
  <img width="1600" height="688" alt="image" src="https://github.com/user-attachments/assets/ba065028-0ef9-4601-b656-7b269a03cae2" />
+
+ ## model graph
+ <img width="1125" height="388" alt="image" src="https://github.com/user-attachments/assets/bd67f968-baf3-49e4-8054-ac58f2a3e3d0" />
+
 
 ## RESULT
 Calculated attenuation-limited fiber length ≈ 121 km based on a 23 dB allowable fiber loss.
